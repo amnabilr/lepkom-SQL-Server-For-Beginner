@@ -1,2 +1,2 @@
-# lepkom-SQL-Server-for-Berginner
-Lab Activity Lepkom SQL Server for Berginner
+# lepkom-SQL-Server-for-Beginner
+Lab Activity Lepkom SQL Server for Beginner
