@@ -1,0 +1,1 @@
+grant select to asep_andi;
